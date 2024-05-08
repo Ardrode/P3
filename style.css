@@ -1,0 +1,122 @@
+body {
+    background-color: gainsboro;
+}
+
+/*barra-laterale*/
+div.barra-laterale {
+    position: fixed;
+    background-color: white;
+    border: 1px solid white; 
+    vertical-align: bottom;
+    border-radius: 1rem; 
+    margin-left: 0.1%;
+    height: 98%;
+    width: 6%; 
+    font-size: 1rem;
+    text-align: center;
+    line-height: 0px;
+}
+
+#elemento_1 {
+    padding-bottom: 20%;
+}
+
+img.barra-laterale {
+    padding-top: 20%;
+    text-align: center;
+    width: 60%;
+}
+
+p.barra-laterale {
+    color: black;
+}
+
+a.barra-laterale {
+    text-decoration: none;
+}
+
+/*separatore-orizzontale*/
+div.separatore-orizzontale {
+    height: 1px;
+    margin-left: 10%;
+    margin-right: 10%;
+    width: 80%;
+    background-color: black; 
+}
+
+/*elemento-barra*/
+div.elemento-barra {
+    height: 80%;
+    width: 80%;
+    background-color: white;
+    border: 1px solid white;
+    border-radius: 15px;
+    margin: 10%;
+    
+}
+
+img.elemento-barra {
+    padding-top: 3px;
+    height: 60%;
+    width: 60%;
+}
+
+a.elemento-barra {
+    color: black;
+    text-decoration: none;
+}
+
+p.elemento-barra {
+    line-height: 0;
+}
+
+/*elemento-risalto*/
+div.elemento-risalto {
+    height: 80%;
+    width: 80%;
+    background-color: white;
+    border: 1px solid black;
+    border-radius: 15px;
+    margin: 10%;
+    
+}
+
+img.elemento-risalto {
+    padding-top: 3px;
+    height: 60%;
+    width: 60%;
+}
+
+a.elemento-risalto {
+    color: black;
+    text-decoration: none;
+}
+
+p.elemento-risalto {
+    line-height: 0;
+}
+
+/*contenuto-principale*/
+
+h1.contenuto-principale {
+    text-align: center;
+    line-height: 8px;
+    font-size: 40px;
+    color: red;
+}
+
+div.contenuto-principale {
+    position: fixed;
+    background-color: white;
+    border: 1px solid white; 
+    vertical-align: bottom;
+    border-radius: 15px; 
+    margin-left: 7%;
+    margin-right: 1.5%;
+    height: 98%;
+    width: 91.5%; 
+    font-size: 16px;
+    text-align: center;
+    line-height: 0px;
+}
+
